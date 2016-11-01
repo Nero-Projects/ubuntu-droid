@@ -36,11 +36,11 @@ CACHEMOD=true
 
 # This will be the folder name under /magisk or /cache/magisk
 # This should also be the same as the id in your module.prop to prevent confusion
-MODID=miracastmagiskmodule
+MODID=googleassistant
 
 # Set to true if you need automount
 # Most mods would like it to be enabled
-AUTOMOUNT=true
+AUTOMOUNT=false
 
 # Set to true if you need post-fs script (Only available in cache mods)
 POSTFS=true
@@ -58,9 +58,9 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Miracast Magisk Module    "
-  ui_print "*******************************"
+  ui_print "*********************************"
+  ui_print "     Miracast Magisk Module      "
+  ui_print "*********************************"
 }
 
 ##########################################################################################
