@@ -1,9 +1,6 @@
-id=miracastmagiskmodule
-name=Miracast Magisk Module
-version=v1.0.0
+id=ubuntudroid
+name=Ubuntu-Droid
+version=v1
 versionCode=1
-author=cristianoalexandre
-description=Enables Miracast on Google Nexus devices
-support=none
-donate=none
-cacheModule=true
+author=Nero White
+description=Installing Ubuntu on Android
