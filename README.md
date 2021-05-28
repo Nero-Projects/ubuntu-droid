@@ -1,3 +1,3 @@
-# Miracast module for Magisk
+# Ubuntu-Droid
 
-Enables Miracast on Google Nexus devices with Magisk installed.
+Устанавливает UBUNTU в Android
